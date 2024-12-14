@@ -1,10 +1,8 @@
-# RINA
-
-![banner](https://github.com/user-attachments/assets/0a999247-098b-4ba9-9126-45d8ccc17c86)
+# Tana
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
-Follow our AI agent: [@Rina_RIG](https://x.com/Rina_RIG)
+Follow our AI agent: [@Tana_RIG](https://x.com/Tana_RIG)
 
 ## Overview
 
@@ -49,8 +47,8 @@ This project implements an AI-powered social media agent that autonomously engag
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/chakaboommm/rina
-cd rina
+git clone https://github.com/ayekill/tana
+cd tana
 
 2. Create a `.env` file with required credentials:
 ANTHROPIC_API_KEY=your_api_key
